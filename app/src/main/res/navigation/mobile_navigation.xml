@@ -45,4 +45,44 @@
         android:name="com.example.planetario2020.Planeta01Fragment"
         android:label="fragment_planeta01"
         tools:layout="@layout/fragment_planeta01" />
+    <fragment
+        android:id="@+id/freddyMercury"
+        android:name="com.example.planetario2020.FreddyMercury"
+        android:label="fragment_freddy_mercury"
+        tools:layout="@layout/fragment_freddy_mercury" />
+    <fragment
+        android:id="@+id/venus"
+        android:name="com.example.planetario2020.Venus"
+        android:label="fragment_venus"
+        tools:layout="@layout/fragment_venus" />
+    <fragment
+        android:id="@+id/marte"
+        android:name="com.example.planetario2020.Marte"
+        android:label="fragment_marte"
+        tools:layout="@layout/fragment_marte" />
+    <fragment
+        android:id="@+id/jupiter"
+        android:name="com.example.planetario2020.Jupiter"
+        android:label="fragment_jupiter"
+        tools:layout="@layout/fragment_jupiter" />
+    <fragment
+        android:id="@+id/saturno"
+        android:name="com.example.planetario2020.Saturno"
+        android:label="fragment_saturno"
+        tools:layout="@layout/fragment_saturno" />
+    <fragment
+        android:id="@+id/urano"
+        android:name="com.example.planetario2020.Urano"
+        android:label="fragment_urano"
+        tools:layout="@layout/fragment_urano" />
+    <fragment
+        android:id="@+id/neptuno"
+        android:name="com.example.planetario2020.Neptuno"
+        android:label="fragment_neptuno"
+        tools:layout="@layout/fragment_neptuno" />
+    <fragment
+        android:id="@+id/pluton"
+        android:name="com.example.planetario2020.Pluton"
+        android:label="fragment_pluton"
+        tools:layout="@layout/fragment_pluton" />
 </navigation>
